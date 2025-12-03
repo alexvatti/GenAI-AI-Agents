@@ -1,0 +1,5 @@
+https://pypi.org/project/openai/
+https://platform.openai.com/docs/quickstart
+https://platform.openai.com/api-keys
+https://platform.openai.com/docs/models/gpt-5-mini
+https://platform.openai.com/docs/models
